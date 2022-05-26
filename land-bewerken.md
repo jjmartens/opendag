@@ -23,7 +23,7 @@ title: Land bewerken
     height: 100%;
 }
 </style>
-<div class="image-container"
+<div class="image-container">
      <img src="https://www.dropbox.com/s/2ltgo0k0ki21m4r/Johan%20-%20IMG_20220422_181517%20%20foto%20tractor%20met%203%20machines%2C%20mooi.jpg?raw=1" alt="tractor met machines" />
 </div>
 
