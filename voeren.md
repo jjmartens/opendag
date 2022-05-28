@@ -25,5 +25,5 @@ title: Voerwagen
 </style>
 
 <div class="video-container">
-  <iframe src="https://www.dropbox.com/s/0tc7mne6ohjhhb6/VID20220522073815%281%29%20uithalen%20gras%2C%20stijgerende%20tractor%20I.mp4?raw=1 frameborder="0"></iframe>
+  <iframe src="https://www.dropbox.com/s/0tc7mne6ohjhhb6/VID20220522073815%281%29%20uithalen%20gras%2C%20stijgerende%20tractor%20I.mp4?raw=1" frameborder="0"></iframe>
 </div>
