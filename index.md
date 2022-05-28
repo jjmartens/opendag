@@ -1,1 +1,2 @@
-[categorie](./land-bewerken.html)
+[Land bewerken](./land-bewerken.html)
+[Voeren](./voeren.html)
