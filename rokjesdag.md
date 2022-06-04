@@ -24,5 +24,5 @@ title: Rokjesdag
 }
 </style>
 <div class="video-container">
-  <iframe src="https://www.dropbox.com/s/1ycjngpfgid4x6o/Zo%C3%AB%20-%20IMG_3047%20QR%20Rokjesdag%20voor%20QR.MOV?raw=1" frameborder="0"></iframe>
+  <iframe src="https://www.dropbox.com/s/zf1sbhzbxu23yxk/Zo%C3%AB%20-%20IMG_3047%20QR%20Rokjesdag%20voor%20QR.mp4?raw=1" frameborder="0"></iframe>
 </div>
