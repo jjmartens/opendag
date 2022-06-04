@@ -1,21 +1,19 @@
-[Akkerland](./akkerland.html)
-
-[Duurzaamheid](./duurzaamheid.html)
-
-[Friesland Campina](./friesland-campina.html)
-
-[Gras inkuilen](./gras-inkuilen.html)
+[Gras-inkuilen](./gras-inkuilen.html)
 
 [Kalfjes](./kalfjes.html)
 
-[Land bewerken](./land-bewerken.html)
+[Land-bewerken](./land-bewerken.html)
 
-[Melken](./melken.html)
+[Mest 1](./mest-i.html)
 
-[Mestscheider](./mestscheider.html)
+[Mest 2](./mest-ii.html)
+
+[Mestschuif](./mestschuif.html)
 
 [Rokjesdag](./rokjesdag.html)
 
 [Stal](./stal.html)
 
-[Wellness](./wellness.html)
+[Voeren](./voeren.html)
+
+[Wellness 2](./wellness-2.html)
